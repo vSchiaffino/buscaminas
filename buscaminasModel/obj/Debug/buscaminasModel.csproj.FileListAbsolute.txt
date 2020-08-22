@@ -1,0 +1,6 @@
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminasModel\bin\Debug\buscaminasModel.dll
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminasModel\bin\Debug\buscaminasModel.pdb
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminasModel\obj\Debug\buscaminasModel.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminasModel\obj\Debug\buscaminasModel.dll
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminasModel\obj\Debug\buscaminasModel.pdb
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminasModel\obj\Debug\buscaminasModel.csprojAssemblyReference.cache

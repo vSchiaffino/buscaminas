@@ -1,0 +1,14 @@
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\bin\Debug\buscaminas.exe.config
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\bin\Debug\buscaminas.exe
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\bin\Debug\buscaminas.pdb
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\obj\Debug\buscaminas.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\obj\Debug\buscaminas.frmInicio.resources
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\obj\Debug\buscaminas.Properties.Resources.resources
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\obj\Debug\buscaminas.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\obj\Debug\buscaminas.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\obj\Debug\buscaminas.exe
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\obj\Debug\buscaminas.pdb
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\obj\Debug\buscaminas.frmMain.resources
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\bin\Debug\buscaminasModel.dll
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\bin\Debug\buscaminasModel.pdb
+C:\Users\valen\Desktop\Proyectos programacion\c#\juegos\buscaminas\buscaminas\buscaminas\obj\Debug\buscaminas.csproj.CopyComplete
